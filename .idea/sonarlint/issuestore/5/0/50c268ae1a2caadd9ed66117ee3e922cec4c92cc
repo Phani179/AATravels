@@ -1,0 +1,55 @@
+
+w
+java:S1192,"UDefine a constant instead of duplicating this literal "Enter correct option" 3 times.(ËÚåÍûÿÿÿÿ8ÜŠ¹ñË0
+l	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹Üèd8ÜŠ¹ñË0
+v
+java:S1104"TMake userMail a static final constant or non-public and provide accessors if needed.(øúÛÓûÿÿÿÿ8åŠ¹ñË0
+z
+java:S1104"XMake userPassword a static final constant or non-public and provide accessors if needed.(®š­úÿÿÿÿ8æŠ¹ñË0
+w
+java:S1104"UMake adminMail a static final constant or non-public and provide accessors if needed.(¸åêüÿÿÿÿ8æŠ¹ñË0
+l
+java:S1104"PMake mail a static final constant or non-public and provide accessors if needed.(ª€Åf8æŠ¹ñË0
+P
+java:S1444".Make this "public static userMail" field final(øúÛÓûÿÿÿÿ8çŠ¹ñË0
+T
+java:S1444"2Make this "public static userPassword" field final(®š­úÿÿÿÿ8èŠ¹ñË0
+Q
+java:S1444"/Make this "public static adminMail" field final(¸åêüÿÿÿÿ8èŠ¹ñË0
+F
+java:S1444"*Make this "public static mail" field final(ª€Åf8èŠ¹ñË0
+l
+java:S2259\"OA "NullPointerException" could be thrown; "preparedStatement" is nullable here.(ÊÁ€ê8ˆ¹ñË0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ø÷¼¤8Ùşº¢Ë0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŠŸïûÿÿÿÿ8Úşº¢Ë0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ş›üœúÿÿÿÿ8Úşº¢Ë0
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(Èå¸Š8Ûşº¢Ë0
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(óş—¿ûÿÿÿÿ8Ûşº¢Ë0
+W	java:S125$"<This block of commented-out lines of code should be removed.(¤ûw8œ¹ñË0
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(£ûèÕıÿÿÿÿ8İşº¢Ë0
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ËÚåÍûÿÿÿÿ8Şşº¢Ë0
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(÷ªâó8¥¹ñË0
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(‡‘›Ÿøÿÿÿÿ8¦¹ñË0
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(ç‹ä8©¹ñË0
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(üÓŒ¨üÿÿÿÿ8«¹ñË0
+U	java:S106U"9Replace this use of System.out or System.err by a logger.(Ï€®‚8¯¹ñË0
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8²¹ñË0
+o
+java:S3776`"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(³³õ¼8«¹ñË0
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(âĞÒ’8´¹ñË0
+U	java:S106g"9Replace this use of System.out or System.err by a logger.(ÛïÌÎ8¶¹ñË0
+D
+java:S1125l"'Remove the unnecessary boolean literal.(´ÆÒ²8²¹ñË0
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(¹‡…›8»¹ñË0
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.(óş—¿ûÿÿÿÿ8¼¹ñË0
+V	java:S106"9Replace this use of System.out or System.err by a logger.(í™‹‰8¼¹ñË0
+[	java:S106—"9Replace this use of System.out or System.err by a logger.(û…àÙøÿÿÿÿ8¼¹ñË0
+[	java:S106¡"9Replace this use of System.out or System.err by a logger.(ï’½Øşÿÿÿÿ8Â¹ñË0
+V	java:S106§"9Replace this use of System.out or System.err by a logger.(âñ¢ 8Å¹ñË0
+[	java:S106³"9Replace this use of System.out or System.err by a logger.(æ©ğ±ùÿÿÿÿ8Æ¹ñË0
+[	java:S106´"9Replace this use of System.out or System.err by a logger.(¢Áß¼ûÿÿÿÿ8Æ¹ñË0
+[	java:S106µ"9Replace this use of System.out or System.err by a logger.(²ššúÿÿÿÿ8Ç¹ñË0
+[	java:S106¶"9Replace this use of System.out or System.err by a logger.(Š¯şŸıÿÿÿÿ8Ì¹ñË0
+V	java:S106·"9Replace this use of System.out or System.err by a logger.(ã¹©8Ì¹ñË0
+[	java:S106É"9Replace this use of System.out or System.err by a logger.(£ûèÕıÿÿÿÿ8Ë€ÑñË0
+[	java:S106Í"9Replace this use of System.out or System.err by a logger.(ËÚåÍûÿÿÿÿ8Ì€ÑñË0

@@ -1,0 +1,24 @@
+
+r	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø‘Ò²ýÿÿÿÿ8Šˆ¹ñË0
+o
+java:S1104"RMake status a static final constant or non-public and provide accessors if needed.(‘²’û8Šˆ¹ñË0
+I
+java:S1444",Make this "public static status" field final(‘²’û8Šˆ¹ñË0
+d
+java:S2259."GA "NullPointerException" could be thrown; "statement" is nullable here.(³úÀ‹8âˆÀ©Ë0
+d
+java:S2259I"GA "NullPointerException" could be thrown; "statement" is nullable here.(³úÀ‹8åˆÀ©Ë0
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÌÏØó8çˆÀ©Ë0
+e
+java:S20958"HUse try-with-resources or close this "Connection" in a "finally" clause.(ÌÏØó8®‰¹ñË0
+S
+java:S6437"6Revoke and change this password, as it is compromised.(ÌÏØó8ýŠÀ©Ë0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“•°¤úÿÿÿÿ8ìŠÀ©Ë0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôŒÙ®úÿÿÿÿ8„‹À©Ë0
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(Ø²íµ8™‹À©Ë0
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ8Á‰¹ñË0
+S
+java:S64378"6Revoke and change this password, as it is compromised.(ÌÏØó8Å‰¹ñË0
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(É´¹¤øÿÿÿÿ8Ç‰¹ñË0
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ8Ì‰¹ñË0
